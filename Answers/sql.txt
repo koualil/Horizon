@@ -1,0 +1,22 @@
+ 
+
+code_id, test_id, date_tested, status
+(3, 1, '20191120', 'Failed' ),
+(3, 1, '20200613', 'Passed' ),
+(1, 2, '20201102', 'Passed' ),
+(1, 1, '20200507', 'Passed' ),
+(3, 1, '20200326', 'Failed' ),
+(1, 3, '20200417', 'Failed' ),
+(3, 1, '20200105', 'Failed' ),
+(1, 3, '20200425', 'Passed' ),
+(1, 1, '20200922', 'Failed' ),
+(1, 1, '20200916', 'Passed' )
+
+Question 1
+
+Return the code_id where test_id passed for 1 and failed for 2?
+
+
+Question 2
+
+Return the count of failure status with all columns?
